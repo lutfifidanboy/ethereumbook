@@ -25,7 +25,7 @@ To read this book, see [book.asciidoc](https://github.com/ethereumbook/ethereumb
 + Chapter 13: '[The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)'
 + Chapter 14: '[Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)'
 
-## Content
+## Content Details
 
 The content status is "COMPLETE". The first edition of this book was published on December 1st, 2018. That edition is available in print and ebook format at many popular bookstores. It is tagged ["first_edition_first_print"](https://github.com/ethereumbook/ethereumbook/tree/first_edition_first_print) in the develop branch of this repository.
 
